@@ -1,7 +1,7 @@
 One of the most common question we hear related to open source software development is “how do developers who are running open source projects make money?” While there are lots of options out there for funding open source software development, they are not all created equal. It can be confusing to navigate all the options, and it can take time to experiment and find a good fit. So how do you decide what’s right for your project?
 
 ## The key options for funding open source software development
-Nadia Eghbal’s lemonade-stand is an amazing resource that explores several different options, including:
+[Nadia Eghbal’s lemonade-stand](https://github.com/nayafia/lemonade-stand) is an amazing resource that explores several different options, including:
 
 * Donations: Add a donation button to the project site. 
 * Bounties: Companies or projects issue “bounties” for bug fixes.
