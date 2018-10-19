@@ -10,7 +10,7 @@ One of the most common question we hear related to open source software developm
 * Consulting: Offer consulting and services for the project.
 * Paid support or subscription: Users pay for maintainers to support and maintain the project. 
 
-Before making any decisions be sure to consider the project itself and how funding might help or hurt the overall project health. Think about how the money will be used, make sure you’re comfortable with what the funding source requires, and think about much time you’ll need to invest in order to reach your goal. 
+Before making any decisions be sure to consider the project itself and how funding might help or hurt the overall project health. Think about how the money will be used, make sure you’re comfortable with what the funding source requires, and think about how much time you’ll need to invest in order to reach your goal. 
 
 ### Setting a goal
 Setting a financial goal will help you determine which funding sources might work best for your project. Is it short-term funding to hire a contractor for a specific project? Or longer term funding so that you can become a full time maintainer? Once you know that you’ll be in a better position to decide which funding options give you the best chance of achieving your goal. 
