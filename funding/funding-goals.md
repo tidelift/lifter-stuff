@@ -22,7 +22,7 @@ On the other hand, getting the project funded by taking a job at a company that 
 Talk to your co-maintainers about the overall project goals and determine what funding is needed to get there before you move forward. 
 
 ### Setting the tone
-Make sure all project maintainers are comfortable with the funding sources. Options like advertising space on project sites can make users feel uncomfortable if you’re not transparent about how they works (no tracking). Similarly, asking for donations can be an uncomfortable (and time consuming!) process, where the maintainer feels bad for approaching companies—or worse, individuals and friends—asking for money to help support their open source project.
+Make sure all project maintainers are comfortable with the funding sources. Options like advertising space on project sites can make users feel uncomfortable if you’re not transparent about how they work (no tracking). Similarly, asking for donations can be an uncomfortable (and time consuming!) process, where the maintainer feels bad for approaching companies—or worse, individuals and friends—asking for money to help support their open source project.
 
 ### Getting realistic about bandwidth
 Some funding sources require more attention and maintenance, and you should consider this when deciding what’s right for your project. Consulting services work well for some, but it can take time away from the project work, and consulting work only scales to the extent that there are hours in the day to spend on it. Many open source project maintainers who pursue consulting options find that their time becomes consumed by consulting work, leaving little time for new development and ongoing maintenance.
