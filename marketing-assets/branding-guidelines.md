@@ -15,7 +15,7 @@ Get \<package name> pro
 >  
 > Tidelift gives software development teams a single source for purchasing and maintaining their software, with professional grade assurances from the experts who know it best, while seamlessly integrating with existing tools.
 
-> \[Get supported <package name> with the Tidelift subscription](\<appropriate marketing link here>)
+> \[Get supported \<package name> with the Tidelift subscription](\<appropriate marketing link here>)
   
 ![vuetify readme example](branding-guidelines-assets/vuetify-readme.png)  
 
